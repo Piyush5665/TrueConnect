@@ -1,6 +1,6 @@
 # TrueConnect
 
-<b> Face Meet is a cutting-edge video calling platform designed to eliminate anonymous interruptions with robust 2FA security. It combines face recognition and email password verification to ensure that only registered, verified users can join meetings. With a high accuracy of 99.38%, Face Meet guarantees secure and authentic interactions.
+<b> TrueConnect is a cutting-edge video calling platform designed to eliminate anonymous interruptions with robust 2FA security. It combines face recognition and email password verification to ensure that only registered, verified users can join meetings. With a high accuracy of 99.38%, TrueConnect guarantees secure and authentic interactions.
 <br>
 
 ## Features:
